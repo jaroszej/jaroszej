@@ -6,7 +6,6 @@
 - 📫 How to reach me: jason.j@rosze.dev
 - 😄 Pronouns: He/Him
 - 🚀 Hobbies: Photography, Reading
-- ⚡ Fun fact: I've never recieved any tickets while driving
 - 👀 I'm available for hire
 
 
