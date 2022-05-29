@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jason Jaroszewicz (juh-rose-uh-vitch) 
+### Hi there 👋 I'm Jason Jaroszewicz 
 
 - 🔭 I’m currently working on a sudoku website
 - 🌱 I’m currently learning Next/React and Japanese
