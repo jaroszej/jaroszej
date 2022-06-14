@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jason Jaroszewicz 
 
-- 🔭 I’m currently working on a sudoku website
-- 🌱 I’m currently learning Next/React and Japanese
+- 🔭 I’m currently working for WebMD
+- 🌱 I’m currently learning VueJS and Japanese
 - 💬 Ask me about my trip to Puerto Rico or the Grand Canyon
 - 📫 How to reach me: jason.j@rosze.dev
 - 😄 Pronouns: He/Him
