@@ -5,8 +5,8 @@
 - 💬 Ask me about my trip to Puerto Rico or the Grand Canyon
 - 📫 How to reach me: jason.j@rosze.dev
 - 😄 Pronouns: He/Him
-- 🚀 Hobbies: Photography, Reading
-- 👀 I'm available for hire 
+- 🚀 Hobbies: Photography, Reading, Minecraft
+- 👀 Contact me for collaboration inquiries 
 
  
 ## Connect with Me 👇
