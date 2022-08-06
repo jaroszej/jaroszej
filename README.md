@@ -23,4 +23,4 @@
 
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/><img src="https://img.icons8.com/color/48/000000/mac-os-logo.png"/><img src="https://img.icons8.com/color/48/000000/windows-11.png"/><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><img src="https://img.icons8.com/fluency/48/jupyter.png"/><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/book-reading.png"/> <img src="https://img.icons8.com/color/48/new-york.png"/>
+<img src="https://img.icons8.com/color/48/000000/book-reading.png"/> <img src="https://img.icons8.com/color/48/new-york.png"/><img src="https://img.icons8.com/clouds/48/airplane-take-off.png"/><img src="https://img.icons8.com/doodle/48/minecraft-grass-cube.png"/>
