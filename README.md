@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jason Jaroszewicz 
 
 - 🔭 I’m currently working for WebMD
-- 🌱 I’m currently learning VueJS and Japanese
+- 🌱 I’m currently learning VueJS and Explainable Artificial Intelligence (XAI)
 - 💬 Ask me about my trip to Puerto Rico or the Grand Canyon
 - 📫 How to reach me: jason.j@rosze.dev
 - 😄 Pronouns: He/Him
@@ -10,9 +10,10 @@
 
  
 ## Connect with Me 👇
-[<img src="https://img.icons8.com/color/45/000000/twitter.png"/>](https://twitter.com/jaroszej)
-[<img src="https://img.icons8.com/color/45/000000/linkedin.png"/>](https://www.linkedin.com/in/jason-jarosze/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/jaroszej)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/jason-jarosze/)
 [<img src="https://img.icons8.com/color/48/000000/circled-envelope.png"/>](jason.j@rosze.dev)
+[<img src="https://img.icons8.com/fluency/344/instagram-new.png"/>](https://www.instagram.com/jason.rosze/)
 
 ---
 ## My Tools 🛠
