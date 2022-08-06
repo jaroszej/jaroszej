@@ -10,7 +10,6 @@
 
  
 ## Connect with Me 👇
-[<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/jaroszej)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/jason-jarosze/)
 [<img src="https://img.icons8.com/color/48/000000/circled-envelope.png"/>](jason.j@rosze.dev)
 [<img src="https://img.icons8.com/fluency/48/instagram-new.png"/>](https://www.instagram.com/jason.rosze/)
