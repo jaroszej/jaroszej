@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Jason Jaroszewicz 
 
-- 🔭 I’m currently working for WebMD
-- 🌱 I'm learning to improve SEO by optimizing API services
+- 🔭 I’m a Full Stack Developer in New York
 - 📚 I’m praparing to earn a masters degree in begining Fall '23
 - 📫 Reach me at: jason.j@rosze.dev
 - 😄 Pronouns: He/Him
