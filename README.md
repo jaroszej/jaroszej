@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jason Jaroszewicz 
 
 - 🔭 I’m a Full Stack Developer in New York
-- 📚 I’m praparing to earn a masters degree in begining Fall '23
+- 📚 I’m earning a master's degree in computer science at New York University
 - 📫 Reach me at: jason.j@rosze.dev
 - 😄 Pronouns: He/Him
 - 🚀 Hobbies: Photography, Reading, Duolingo, Minecraft and other games
