@@ -8,7 +8,7 @@
 
 ### I use these technologies
 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/vue-js.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>   <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" width="48"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/vue-js.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>   <img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   
 
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/mac-os-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/windows-11.png"/>  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
