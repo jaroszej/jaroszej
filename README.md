@@ -3,7 +3,7 @@
 - Software Engineer @ WebMD 👨‍💻
 - Michigan born, New York City based ✋ → 🗽
 - Earning my MSCS at New York University 📚
-- Currently Learning: [Go](https://github.com/golang/go) 🐹
+
 <hr />
 
 ### I use these technologies
